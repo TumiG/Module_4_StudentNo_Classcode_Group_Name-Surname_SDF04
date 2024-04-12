@@ -37,7 +37,7 @@ p {
     color: #000;
     border-radius: 5px;
     padding: 10px 25px;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lato'sans-serif;
     font-weight: 500;
     background: transparent;
     cursor: pointer;
@@ -49,6 +49,55 @@ p {
         7px 7px 20px 0px rgba(0, 0, 0, .1),
         4px 4px 5px 0px rgba(0, 0, 0, .1);
     outline: none;
+    
 }
 
+/* 1 */
+.btn-1 {
+
+    background:  rgb(243, 246, 244);
+    border-color: red;
+    border-width: 2.5px; 
+    
+}
+
+.btn-1:hover {
+
+    background-color: rgb(236, 36, 36);
+    transition: 2s;
+    
+}
+
+.btn-2 {
+   
+    background-color: aqua;
+    border-color: rgb(246, 111, 196); 
+    border-width: 3px;
+    
+}
+
+.btn-2:hover {
+    color: rgb(246, 111, 196);
+    transition: 2s; 
+    letter-spacing: 0.35em;
+}
+    
+
+.btn-3 {
+    background-color: rgb(7, 233, 49);
+    border-top-color: rgb(7, 2, 0);
+    border-top-width: 5px;
+    padding: 12px;
+    border-color: chartreuse;
+    border-width: 3px;
+
+}
+
+.btn-3:hover {
+    color: pink;
+    transition: 2s;
+    letter-spacing: 0.65em;
+    box-shadow:rgb(206, 8, 133);
+    
+}
 /* Add your custom styles for btn-1, btn-2, and btn-3 */

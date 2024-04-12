@@ -1,40 +1,15 @@
-# [SDF04] CSS Magic Buttons
+# [SDF04] Magic buttons 
 
-Get ready to create animated buttons using CSS! This project focuses on creating three unique animated buttons using CSS. With this challenge, you'll dive into the world of CSS animations, transitions, and interactivity.
+I have decided on this project to incorporate fun and bright colors into my code so that my buttons stand out.
+As you can probably tell, I am a fan of pink and green and incorporated those colors a lot.
 
-## Learning Goals
+Interesting enough, FUDGE is my clothing brand and that is the reason I changed the words in the buttons to 'Happy FUDGE Day'
 
-By completing this project, you will learn to:
+By incorporating transitions, I think it adds a bit of excitement when hovering over the buttons that you are selecting.
 
-- Design engaging button animations with CSS.
-- Master the use of CSS transitions and animations for interactive effects.
+I also incoporated letter spacing with two of the buttons that space out when you are hovering over the button,
+and this is something that I felt was unique and fun to do as not many buttons have letter spacing. 
 
-![alt text](./images/image.png)
+# Challenges Faced 
 
-## Project Overview
-
-### Time Estimate: 2 hours
-
-## What you Need to Do:
-
-1. **Starter Code**: Clone the starter code from GitHub for your project. The HTML structure is provided, and you'll focus on adding styles in the `style.css` file.
-
-    - Starter code can be found here: https://github.com/CodeSpace-Academy/Module_4_StudentNo_Classcode_Group_Name-Surname_SDF04
-
-2. **Write your CSS Styles**: Create your animations from scratch. You're welcome to go through our curated buttons for inspiration: [View Reference](https://codepen.io/codespace-academy/pen/xxmWrjX). 
-
-3. **Prepare Your Repository**: 
-    - Save all chanes and update your GitHub repository with the final versions of all files.
-    - Include a `README.md` file that outlines the project, your design choices, and any notes on challenges you faced or features you're particularly proud of.
-    - Ensure your repository is set to public so it can be accessed by your code coach.
-
-4. **Submit on LMS**:
-    - Submit the link to your GitHub repository on the LMS under the SDF04 project tab.
-
-Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
-
-
-## Submission Guidelines
-- Submit the link to your GitHub repository on the LMS under the SDF04 project tab.
-
-Embark on this CSS journey to transform simple buttons into interactive, animated elements. Let your creativity shine and enjoy the process of bringing static elements to life!
+I did find that I had challenges when coming to being able to incoporate my borders when coding the hovering so that I can have funky styles that come together and connect around when hovering.
